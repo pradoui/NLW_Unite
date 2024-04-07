@@ -3,6 +3,7 @@
 # pass.in
 
 **Desenvolvi o seguinte projeto, criado por: Rocketseat**
+
 **Evento: NLW Unite - Trilha React JS**
 
 **Sobre**
@@ -41,9 +42,13 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 ▶ **Como rodar o projeto**
 
 1- Na pasta da API -> nlw-unite-nodejs
-Execute 'npm run dev'
+
+Execute ´npm run dev´
+
 para startar o HTTP SERVER.
 
 2- Na pasta -> pass-in-web
-Execute 'npm run dev'
+
+Execute ´npm run dev´
+
 para inicar a aplicação em localhost.
