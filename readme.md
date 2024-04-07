@@ -1,4 +1,4 @@
-![NLW Unite](../NLW_Unite/gh-images/nlw-logo.png)
+![NLW Unite](/gh-images/nlw-logo.png)
 
 # pass.in
 
@@ -33,22 +33,22 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 
 🖼️ **Imagens**
 
-![print1](../NLW_Unite/gh-images/print1.png)
+![print1](/gh-images/print1.png)
 
 <br/>
 
-![nlw-gif](../NLW_Unite/gh-images/nlw-gif.gif)
+![nlw-gif](/gh-images/nlw-gif.gif)
 
 ▶ **Como rodar o projeto**
 
 1- Na pasta da API -> nlw-unite-nodejs
 
-Execute ´npm run dev´
+Execute `npm run dev`
 
 para startar o HTTP SERVER.
 
 2- Na pasta -> pass-in-web
 
-Execute ´npm run dev´
+Execute `npm run dev`
 
 para inicar a aplicação em localhost.
